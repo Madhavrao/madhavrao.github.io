@@ -6,16 +6,16 @@ permalink:           pretty
 # Setup
 title:               madhavrao
 tagline:             '...in search of noesis'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+description:         'A personal website of Madhavrao Pachupate, to share his personal experiences with technology and productivity experiments'
+url:                 http://www.zen-noesis.in
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Madhavrao Pachupate
+  url:               https://twitter.com/madhavraop
+  email:             madhavraop@outlook.com
 
 # Custom vars
 version:             1.0.0
