@@ -13,6 +13,8 @@ An Enterprise Data Warehouse is a large, centralized repository that combines da
 
 The architecture of an EDW typically involves the extraction, transformation, and loading (ETL) process. Data from operational systems undergo change and integration before being loaded into the EDW, ensuring consistent and reliable data for analysis.
 
+![Enterprise Data Warehouse](/assets/images/edw.png)
+
 ## Key Features of the Enterprise Data Warehouse
 
 1. **Data Integration**: The EDW serves as a centralized hub for data integration, allowing data from various sources and formats to be combined seamlessly. This integration helps eliminate data silos, fostering a more holistic view of the organization's data.
