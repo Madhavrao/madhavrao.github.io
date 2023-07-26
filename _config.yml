@@ -17,3 +17,4 @@ author:
   url:               https://twitter.com/madhavraop
   email:             madhavraop@outlook.com
 
+plugins: [jekyll-paginate]
