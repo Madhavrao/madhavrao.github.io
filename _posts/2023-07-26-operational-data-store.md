@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Operational Data Store
+image: /assets/images/ods.png
+category: data-platform
+tags: core-concept, ods
 ---
 
 # A Cornerstone of Data Integration and Real-Time Insights
@@ -12,7 +15,7 @@ In the fast-paced world of data-driven decision-making, businesses rely heavily 
 An Operational Data Store is a centralized database that serves as a real-time, integrated repository for an organization's operational data. Unlike traditional data warehouses, which primarily store historical data for analytical purposes, the ODS focuses on supporting operational processes and business applications that require access to the most current and consistent data.
 
 The primary purpose of an ODS is to capture data from multiple source systems, such as transactional databases, external feeds, and applications, and transform it into a standardized format. This transformation process must ensure data quality, consistency, and accuracy before making it available for operational reporting and other downstream processes.
-
+<!--more-->
 ![Operational Data Store](/assets/images/ods.png)
 
 ## Key Features and Advantages

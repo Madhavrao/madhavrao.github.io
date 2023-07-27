@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Enterprise Data Warehouse
+image: /assets/images/edw.png
+category: data-platform
+tags: core-concept, data-warehouse
 ---
 
 # Empowering Informed Decision-Making and Analytics
@@ -12,7 +15,7 @@ In today's data-driven business landscape, enterprises must efficiently manage a
 An Enterprise Data Warehouse is a large, centralized repository that combines data from diverse sources, including internal systems, external sources, applications, and other data streams. The primary goal of an EDW is to provide a unified and historical view of an organization's data to support business intelligence, reporting, and advanced analytics.
 
 The architecture of an EDW typically involves the extraction, transformation, and loading (ETL) process. Data from operational systems undergo change and integration before being loaded into the EDW, ensuring consistent and reliable data for analysis.
-
+<!--more-->
 ![Enterprise Data Warehouse](/assets/images/edw.png)
 
 ## Key Features of the Enterprise Data Warehouse

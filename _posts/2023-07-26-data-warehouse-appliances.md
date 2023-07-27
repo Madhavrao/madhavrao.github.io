@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Data Warehouse Appliances
+image: /assets/images/dwa.png
+category: data-platform
+tags: core-concept, data-warehouse
 ---
 
 # Empowering Analytics with Speed and Efficiency
@@ -12,7 +15,7 @@ In today's data-driven landscape, businesses grapple with the challenge of effic
 Data Warehouse Appliances are integrated hardware-software solutions designed to optimize the data analytics process. Unlike traditional data warehouses that involve complex setups and configurations, Data Warehouse Appliances come pre-configured and ready-to-use, combining processing power, storage, and data management capabilities into a single unit.
 
 These appliances are engineered for analytical workloads, leveraging specialized hardware components, such as high-performance processors and massive memory capacity, alongside optimized software for query processing and data management. The result is an all-in-one solution that dramatically accelerates data processing and enhances analytical performance.
-
+<!--more-->
 ![Data Warehouse Appliances](/assets/images/dwa.png)
 
 ## Key Features of Data Warehouse Appliances
