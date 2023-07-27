@@ -10,6 +10,7 @@ description:         'Space, to share my personal experiences with technology an
 url:                 http://madhavrao.github.io
 baseurl:             ''
 paginate:            5
+excerpt_separator: '<!--more-->'
 
 # About/contact
 author:
