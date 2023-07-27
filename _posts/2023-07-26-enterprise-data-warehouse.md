@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enterprise Data Warehouse
-image: /assets/images/edw.png
+image: /assets/images/edw.webp
 category: data-platform
 tags: core-concept, data-warehouse
 ---
@@ -16,7 +16,7 @@ An Enterprise Data Warehouse is a large, centralized repository that combines da
 
 The architecture of an EDW typically involves the extraction, transformation, and loading (ETL) process. Data from operational systems undergo change and integration before being loaded into the EDW, ensuring consistent and reliable data for analysis.
 <!--more-->
-![Enterprise Data Warehouse](/assets/images/edw.png)
+![Enterprise Data Warehouse](/assets/images/edw.webp)
 
 ## Key Features of the Enterprise Data Warehouse
 
