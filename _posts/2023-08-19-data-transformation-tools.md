@@ -21,5 +21,7 @@ Examples of Data Transformation/Modeling Tools:
 10. **IBM InfoSphere DataStage**: Part of the IBM InfoSphere suite, DataStage is an ETL tool with powerful data transformation capabilities.
 11. **SAS Data Management**: A software suite that offers various tools for data integration, quality, governance, and preparation.
 12. **Tableau Prep**: An extension of the Tableau ecosystem, Tableau Prep allows users to clean and shape their data before analysis in Tableau.
+13. **Holistics**: A platform for data modeling and self-service BI, allowing users to model their data using SQL.
+14. **Transform by Census**: An operational analytics tool that offers data modeling functionalities similar to dbt.
 
 When choosing a data transformation/modeling tool, it's essential to consider factors such as data sources, volume, and destination, the technical proficiency of the users, the scale of data operations, and the specific business requirements you aim to address.
