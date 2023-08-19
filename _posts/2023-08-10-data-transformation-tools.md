@@ -9,7 +9,7 @@ Data transformation/modeling tools are software solutions that convert raw data 
 
 Examples of Data Transformation/Modeling Tools:
 
-1. **[dbt](/data-platform/2023/08/19/dbt/) (data build tool)**: A command-line tool that enables data analysts and engineers to transform and model data in the data warehouse. It leverages SQL and offers version control, testing, and documentation capabilities.
+1. **[dbt](/data-platform/2023/08/12/dbt/) (data build tool)**: A command-line tool that enables data analysts and engineers to transform and model data in the data warehouse. It leverages SQL and offers version control, testing, and documentation capabilities.
 2. **Looker's LookML**: A modeling layer within Looker, a BI tool that allows for data transformation and modeling in a more semantic way, defining relationships between tables and creating reusable SQL snippets.
 3. **Dataform**: A tool that offers SQL-based data modeling and allows data teams to create document, test, and version control datasets.
 4. **Talend**: A comprehensive data integration tool offering data transformation and modeling functionalities.
