@@ -15,7 +15,7 @@ Here's a brief breakdown of their primary functions:
 
 Examples of Data Integration/ELT Tools:
 
-1. **[Fivetran](/_posts/2023-08-19-fivetran.md)**: A fully managed cloud-based data integration platform with pre-built connectors to many sources, allowing automated data extraction and loading.
+1. **[Fivetran](/data-platform/2023/08/19/fivetran/)**: A fully managed cloud-based data integration platform with pre-built connectors to many sources, allowing automated data extraction and loading.
 2. **Stitch Data**: Similar to Fivetran, it's a cloud-based ELT platform focusing on fast data replication from various sources into a data warehouse.
 3. **Matillion**: A cloud-native data integration solution tailored for famous cloud data warehouses such as Snowflake, BigQuery, and Redshift.
 4. **Hevo Data**: A no-code data integration platform that provides real-time data ingestion into data warehouses.
